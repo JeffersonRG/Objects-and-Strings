@@ -1,0 +1,14 @@
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\bin\Debug\net6.0\Objects and Strings.exe
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\bin\Debug\net6.0\Objects and Strings.deps.json
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\bin\Debug\net6.0\Objects and Strings.runtimeconfig.json
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\bin\Debug\net6.0\Objects and Strings.dll
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\bin\Debug\net6.0\Objects and Strings.pdb
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.AssemblyInfoInputs.cache
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.AssemblyInfo.cs
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.csproj.CoreCompileInputs.cache
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.dll
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\refint\Objects and Strings.dll
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.pdb
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\Objects and Strings.genruntimeconfig.cache
+C:\Users\JeffersonGutierez\Desktop\C# projects\Objects and Strings\obj\Debug\net6.0\ref\Objects and Strings.dll
